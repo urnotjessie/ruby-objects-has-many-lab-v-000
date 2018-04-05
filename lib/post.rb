@@ -14,7 +14,5 @@ class Post
         end
     end
 
-    def
-
 
 end
