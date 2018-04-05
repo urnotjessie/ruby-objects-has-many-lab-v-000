@@ -8,6 +8,7 @@ class Post
 
     def
 
-
     end
+
+
 end
